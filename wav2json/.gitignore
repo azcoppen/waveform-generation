@@ -1,0 +1,9 @@
+.DS_Store
+*~
+example_data/*.wav
+src/version.hpp
+build/foo.json
+build/foo.wav
+build/foo.wav.json
+build/wav2json/.idea
+*.asd
